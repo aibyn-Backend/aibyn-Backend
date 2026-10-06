@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Neon 👋
+### I’m 14 years old and I’m learning programming I’m from Kazakhstan 🇰🇿.
+I'm studying backend development, but also a bit of frontend out of interest.
 
-<!--
-**aibyn-Backend/aibyn-Backend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Currently learning **Python**
+- #️⃣ Learning **C#**
+- ⚙️ Learning **C++**
+- 🌐 Learning **HTML & CSS**
+- 🐧 Using **Linux / Ubuntu**
+- 🎮 Interested in **game development**
+- 💻 Building small projects to improve my programming skills
+
+---
+
+## 🛠️ Languages & Tools
+
+<h1>
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,css,git,github,vscode,linux" />
+</h1>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python       ███████████████░░░░░
+C#           ████████░░░░░░░░░░░░
+C++          █░░░░░░░░░░░░░░░░░░░
+HTML / CSS   ███░░░░░░░░░░░░░░░░░
