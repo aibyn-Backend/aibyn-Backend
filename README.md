@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="./Minecraft.gif" width="700">
+</h1>
+
 # Hi, I'm Neon 👋
 ### I’m 14 years old and I’m learning programming I’m from Kazakhstan 🇰🇿.
 I'm studying backend development, but also a bit of frontend out of interest.
