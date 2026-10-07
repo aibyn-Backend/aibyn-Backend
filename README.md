@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./Minecraft.gif" width="800">
+  <img src="./Minecraft.gif" width="900">
 </h1>
 
 # Hi, I'm Neon 👋
