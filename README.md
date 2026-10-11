@@ -23,7 +23,7 @@ I'm studying backend development, but also a bit of frontend out of interest
 ## 🛠️ Languages & Tools
 
 <h1>
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,css,git,github,vscode,Visual Studio Community,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,css,git,github,vscode,vs Community,ubuntu" />
 </h1>
 
 ---
