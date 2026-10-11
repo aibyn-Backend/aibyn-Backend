@@ -23,7 +23,7 @@ I'm studying backend development, but also a bit of frontend out of interest.
 ## 🛠️ Languages & Tools
 
 <h1>
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,css,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,css,git,github,vscode,ubuntu" />
 </h1>
 
 ---
@@ -33,5 +33,5 @@ I'm studying backend development, but also a bit of frontend out of interest.
 ```text
 Python       ███████████████░░░░░
 C#           ████████░░░░░░░░░░░░
-C++          █░░░░░░░░░░░░░░░░░░░
-HTML / CSS   ███░░░░░░░░░░░░░░░░░
+C++          ███████░░░░░░░░░░░░░
+HTML / CSS   ██░░░░░░░░░░░░░░░░░░
