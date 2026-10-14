@@ -7,6 +7,8 @@
 I'm studying backend development, but also a bit of frontend out of interest
 
 ---
+## I am looking for like-minded people
+- async_neon Discord
 
 ## 🚀 About Me
 
