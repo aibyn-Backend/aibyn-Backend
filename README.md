@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="./Elliot.gif" width="900">
+  <img src="./Elliot.gif" width="1000">
 </h1>
 
-# Hi,I'm Neon 👋
+# 👋Hello I'm Neon
 ### I’m 14 years old and I’m learning programming I’m from Kazakhstan 🇰🇿
 I'm studying backend development, but also a bit of frontend out of interest
 
