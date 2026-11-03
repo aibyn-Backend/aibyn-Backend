@@ -9,7 +9,7 @@ I'm studying backend development, but also a bit of frontend out of interest
 ## 🛠️ Languages & Tools
 
 <h1>
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,css,git,github,vscode,ubuntu,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,js,ts,html,css,git,github,vscode,ubuntu,fastapi" />
 </h1>
 
 ---
@@ -21,3 +21,5 @@ Python       ███████████████░░░░░
 C#           ████████░░░░░░░░░░░░
 C++          ███████░░░░░░░░░░░░░
 HTML / CSS   ██░░░░░░░░░░░░░░░░░░
+Javascript   ░░░░░░░░░░░░░░░░░░░░
+Typescript   ░░░░░░░░░░░░░░░░░░░░
